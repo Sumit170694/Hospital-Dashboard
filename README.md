@@ -80,8 +80,6 @@ From patient treatment to doctor salaries and medicine stock status – every im
 
 ---
 
----
-
 ## 📈 Outcomes & Impact
 
 - 🔹 Enhanced hospital decision-making with real-time metrics  
