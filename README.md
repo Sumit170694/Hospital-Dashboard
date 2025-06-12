@@ -1,44 +1,84 @@
 # 🏥 Hospital Analytics Dashboard – Power BI Project
 
-This Power BI project presents a comprehensive **Hospital Analytics Dashboard** to deliver actionable insights across multiple departments like doctors, patients, finance, and hospital administration.
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)  
+A comprehensive, interactive hospital dashboard solution built using **Power BI** to visualize and optimize healthcare operations, financials, doctor performance, and patient insights.
 
-## 📊 Dashboard Modules
+---
 
-### 1. Doctor Dashboard
-- Monitor commission rate, estimated earnings, salary, and patient appointments.
-- Rating and feedback tracking for individual doctors.
+## 📌 Project Overview
 
-### 2. Finance Dashboard
-- Overview of doctor/staff salaries and patient fees.
-- Monthly medicine sales and detailed charge types.
-- Medicine stock monitoring by brand and type.
+This project is designed to assist hospital administrators, doctors, and finance departments in monitoring and improving healthcare operations using centralized, data-driven dashboards.
 
-### 3. Hospital Dashboard
-- Surgery scheduling and patient test tracking.
-- Bed status by room type (General, ICU, Private).
-- Doctor-wise appointment status and availability.
+From patient treatment to doctor salaries and medicine stock status – every important metric is visualized clearly in this solution.
 
-### 4. Patient Dashboard
-- Full patient profile: personal details, treatment, doctor assigned.
-- Billing breakdown by services and medicine consumption.
-- Discharge summary and quantity of medication used.
+---
 
-### 5. Overview Dashboard
-- Patient admission and discharge analysis.
-- Medicine tracking by weekday.
-- Overall ratings and feedback system.
+## 📊 Key Dashboards
+
+### 1. 👨‍⚕️ Doctor Dashboard
+- Track commissions, salaries, and patient appointments.
+- Live feedback and patient ratings.
+- Commission calculator with dynamic inputs.
+
+![Doctor Dashboard](Doctor.png)
+
+---
+
+### 2. 💰 Finance Dashboard
+- Monitor paid amounts, average spend, and salaries.
+- Visualize monthly medicine sales and stock status.
+- Patient charge type analysis.
+
+![Finance Dashboard](finance.png)
+
+---
+
+### 3. 🏥 Hospital Dashboard
+- Track surgeries and patient tests.
+- Analyze age-wise patient demographics.
+- Room occupancy and appointment summaries.
+
+![Hospital Dashboard](hospital.png)
+
+---
+
+### 4. 🧑‍⚕️ Patient Dashboard
+- Detailed patient profile: age, blood group, room type, doctor assigned.
+- Billing breakdown by service category.
+- Medicine usage and feedback tracking.
+
+![Patient Dashboard](patient.png)
+
+---
+
+### 5. 📈 Overview Dashboard
+- Consolidated hospital performance: admissions, discharges, ratings.
+- Weekly medicine tracking.
+- Patient count and charge breakdown.
+
+![Overview Dashboard](overview.png)
+
+---
+
+## 🎯 Features
+
+- ✅ **Real-time visual reporting**
+- ✅ **User-friendly and clean design**
+- ✅ **Interactive slicers and filters**
+- ✅ **DAX-based dynamic measures**
+- ✅ **Insightful analytics across all departments**
+
+---
 
 ## 🛠 Tools & Technologies Used
-- **Power BI** for interactive dashboard building  
-- **DAX** for calculated metrics  
-- **Custom Visuals & Cards** for UI/UX enhancement  
-- **Data modeling** to join multiple tables smoothly  
 
-## 📸 Dashboard Snapshots
-> Add screenshots using markdown image syntax if uploaded to your repo  
-```markdown
-![Doctor Dashboard](./Doctor.png)
-![Finance Dashboard](finance.png)
-![Hospital Info](hospital.png)
-![Overview](overview.png)
-![Patient](patient.png)
+| Tool        | Purpose                             |
+|-------------|-------------------------------------|
+| Power BI    | Dashboard design & data visualization |
+| DAX         | Custom measures & calculations      |
+| Excel       | Data preprocessing & transformation |
+
+---
+
+## 📂 Repository Structure
+
