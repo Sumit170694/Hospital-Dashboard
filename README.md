@@ -37,7 +37,7 @@ This Power BI project presents a comprehensive **Hospital Analytics Dashboard** 
 ## 📸 Dashboard Snapshots
 > Add screenshots using markdown image syntax if uploaded to your repo  
 ```markdown
-![Doctor Dashboard](Doctor.png)
+![Doctor Dashboard](./Doctor.png)
 ![Finance Dashboard](finance.png)
 ![Hospital Info](hospital.png)
 ![Overview](overview.png)
