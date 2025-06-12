@@ -80,5 +80,30 @@ From patient treatment to doctor salaries and medicine stock status – every im
 
 ---
 
-## 📂 Repository Structure
+---
+
+## 📈 Outcomes & Impact
+
+- 🔹 Enhanced hospital decision-making with real-time metrics  
+- 🔹 Improved transparency in doctor earnings and patient care  
+- 🔹 Streamlined medicine tracking and stock alerts  
+- 🔹 Visual financial health analysis of the hospital
+
+---
+
+## 🙋‍♂️ Author
+
+**Sumit Chhillar**  
+🔗 [LinkedIn](https://www.linkedin.com/in/sumit-chhillar-020a36323/)  
+🐙 [GitHub](https://github.com/Sumit170694)
+
+---
+
+## 📢 Feedback & Contributions
+
+If you found this project helpful or have ideas to improve it, feel free to ⭐ star the repo or connect with me!
+
+---
+
+
 
